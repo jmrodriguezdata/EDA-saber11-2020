@@ -1,9 +1,7 @@
-# EDA-saber11-2020
-
 # 📊 Guía Introductoria al Análisis Exploratorio de Datos (AED) en Python  
 **Autor:** Juan Miguel Rodríguez Trujillo  
 **Fecha:** Enero 2025  
-
+**Titile:** EDA-saber11-2020
 ---
 
 
@@ -20,7 +18,6 @@ El **Análisis Exploratorio de Datos (AED)** es una de las fases más importante
 Esta guía presenta un recorrido claro, estructurado y totalmente reproducible del proceso de exploración, limpieza y visualización inicial de datos. Para ello se utiliza un conjunto de datos real de las **Pruebas Saber 11 (2020)**, con información socioeconómica, familiar y académica de los estudiantes, junto con sus puntajes.
 
 El objetivo principal es ofrecer un documento pedagógico, práctico y directo para estudiantes y profesionales que deseen dominar las bases del AED en Python.
-
 ---
 
 ## 📘 Contenido de la guía
@@ -52,4 +49,5 @@ En este repositorio encontrarás:
 ### 🤝 **5. Visualización conjunta**
 - Relaciones entre variables numéricas  
 - Correlaciones  
-- Gráficos bivariados para exploración profunda  
+- Gráficos bivariados para exploración profunda
+---
