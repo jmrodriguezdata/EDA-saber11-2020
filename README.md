@@ -20,6 +20,7 @@ El **Análisis Exploratorio de Datos (AED)** es una de las fases más importante
 Esta guía presenta un recorrido claro, estructurado y totalmente reproducible del proceso de exploración, limpieza y visualización inicial de datos. Para ello se utiliza un conjunto de datos real de las **Pruebas Saber 11 (2020)**, con información socioeconómica, familiar y académica de los estudiantes, junto con sus puntajes.
 
 El objetivo principal es ofrecer un documento pedagógico, práctico y directo para estudiantes y profesionales que deseen dominar las bases del AED en Python.
+
 ---
 
 ## 📘 Contenido de la guía
@@ -52,4 +53,5 @@ En este repositorio encontrarás:
 - Relaciones entre variables numéricas  
 - Correlaciones  
 - Gráficos bivariados para exploración profunda
+
 ---
