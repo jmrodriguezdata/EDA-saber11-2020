@@ -40,7 +40,7 @@ En este repositorio encontrarás:
 - Filtrado y selección de columnas de interés  
 
 ### 📈 **3. Visualización de variables cuantitativas**
-- Histogramas para anlizar distribución 
+- Histogramas para analizar distribución 
 - Box-plots para identificar medidas de posición y outliers 
 - Funciones personalizadas para generar visualizaciones limpias y ejecutivas  
 
