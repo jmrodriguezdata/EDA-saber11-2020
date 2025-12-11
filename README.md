@@ -1,8 +1,9 @@
-# 📊 Guía Introductoria al Análisis Exploratorio de Datos (AED) en Python  
+# 📊 Guía Introductoria al Análisis Exploratorio de Datos (AED) en Python #
 
 Autor: Juan Miguel Rodríguez Trujillo  
 Fecha: Enero 2025  
-Titile: EDA-saber11-2020
+Title: EDA-saber11-2020
+
 ---
 
 
